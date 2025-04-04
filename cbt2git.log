@@ -1,0 +1,6 @@
+2025-04-04 09:05:44.248794 - Received CBT.V508.FILE397.PDS from FILE397.XMI 
+2025-04-04 09:05:44.249499 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE397.PDS, moved to PDS/$$$#DATE
+2025-04-04 09:05:44.249662 - Found $MSG.eml (message/rfc822) in CBT.V508.FILE397.PDS, moved to PDS/$MSG
+2025-04-04 09:05:44.249798 - Found @FILE397.txt (text/plain) in CBT.V508.FILE397.PDS, moved to PDS/@FILE397
+2025-04-04 09:05:44.249925 - Found PACK.rexx (text/plain) in CBT.V508.FILE397.PDS, moved to PDS/PACK
+2025-04-04 09:05:44.250050 - Found UNPK.rexx (text/plain) in CBT.V508.FILE397.PDS, moved to PDS/UNPK
